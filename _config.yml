@@ -10,10 +10,18 @@ author:
   location: "Gaborone, Botswana"
 markdown: kramdown
 highlighter: rouge
-theme: minima
+theme: null
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
 twitter_username: forensiceye_bw
 github_username: charlesnyamudzanga
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - .jekyll-metadata
