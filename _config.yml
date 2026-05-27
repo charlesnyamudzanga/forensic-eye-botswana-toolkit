@@ -1,0 +1,19 @@
+title: "Forensic Eye Botswana"
+subtitle: "Digital Forensics & Cybersecurity Toolkit"
+description: "Open-source cybersecurity and digital forensics toolkit for African SMEs and law enforcement. Built by Forensic Eye Botswana (Pty) Ltd — Gaborone, Botswana."
+baseurl: "/forensic-eye-botswana-toolkit"
+url: "https://charlesnyamudzanga.github.io"
+author:
+  name: "Charles Nyamudzanga"
+  email: "charles@forensiceye.co.bw"
+  company: "Forensic Eye Botswana (Pty) Ltd"
+  location: "Gaborone, Botswana"
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+twitter_username: forensiceye_bw
+github_username: charlesnyamudzanga
